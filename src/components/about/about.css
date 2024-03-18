@@ -1,0 +1,49 @@
+.back{
+    background-image: url(../images/brad_back.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+}
+
+.function{
+    padding: 45px 0;
+}
+
+.function a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 4px;
+}
+
+.function span i{
+    margin-right: 3px;
+
+}
+
+.function span{
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+
+
+.function h5{
+    color: #22d1f3;
+    text-align: right;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.about-content {
+    margin-top: 2px;
+}
+
+.about-content h4{
+    color: #000;
+    font-weight: 800;
+    margin-top: 10px;
+    text-transform: uppercase;
+    
+}

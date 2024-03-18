@@ -1,0 +1,61 @@
+.addm{
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    color: #222222;
+    font-weight: 700;
+    margin-top: -5px;
+    letter-spacing: 0.5px;
+}
+
+.form-card{
+    padding: 30px;
+    line-height: 1;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .1);
+    border: 1px solid #e9ecef;
+    border-radius: 5px;
+}
+
+.form-group{
+    margin-bottom: 30px;
+}
+
+.form-group label{
+    text-transform: capitalize;
+    color: #000;
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+
+.form-group input{
+    font-size: 13px;
+    padding: 8px 15px;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    line-height: 18px;
+    letter-spacing: 0.5px;
+    background-color: #fff;
+    border: 1px solid #ced4da ;
+    color: #000;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.table-bordered td{
+    border: 1px solid #dee2e6;
+}
+
+.submit-btn{
+    padding: 8px 20px;
+    border: 1px solid #22d1f3;
+    letter-spacing: 1px;
+    text-align: center;
+    cursor: pointer;
+    background-color: #22d1f3;
+    text-transform: uppercase;
+    font-weight: 500;
+    transition: all .5s ease;
+    font-size: 14px;
+    border-radius: 3px;
+    text-align: right;
+}
+

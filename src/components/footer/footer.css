@@ -1,0 +1,157 @@
+.footer{
+    background-color: #041121;
+}
+
+.newsletter-sec {
+    background-color: #041121;
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+    padding: 40px 0;
+}
+
+.bdr-right{
+    border-right: 1px solid #777777;
+}
+
+.call-us{
+    display: flex;
+    column-gap: 15px;
+}
+
+.con-text{
+    color: white;
+}
+
+.form-group{
+    margin-bottom: 0;
+}
+
+.input-group-append{
+    margin-left: -1px;
+}
+
+.phone-img{
+    width: 40px;
+    height: 40px;
+}
+
+.form-group  .bk{
+    background-color: #061d38 ;
+}
+
+.bt{
+    background-color: #22d1f3;
+    color: #061d38;
+}
+
+.upper-section{
+    padding: 30px 0;
+    border-top: 1px dashed rgb(222, 222, 193);
+    border-bottom: 1px dashed rgb(222, 222, 193);
+}
+
+.footer-logo{
+    width: 280px;
+    height: 100px;
+}
+.footer-content p{
+    color: #cacaca;
+    line-height: 33px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    font-size: 15px;
+    margin: 15px 0;
+}
+
+.footer-title h3{
+    margin: 15px 0;
+    color: #22d1f3;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.footer-content ul{
+    list-style-type: none;
+}
+
+.footer-content ul li a {
+    text-decoration: none;
+    color: #cacaca;
+}
+
+.footer-content ul li{
+    padding: 6px 0;
+    color: white;
+}
+
+.footer-content ul li a i{
+    padding-right: 10px;
+}
+
+.footer-content p i{
+    padding: 0px 10px 0px;
+    font-size: 15px;
+}
+
+.footer-social{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.footer-social ul{
+    list-style-type: none;
+    display: flex;
+    column-gap: 50px;
+    
+
+}
+
+.footer-social ul li{
+    padding: 12px;
+    background-color: #061d38;
+
+    width: 40px;
+    height: 40px;
+}
+
+.footer-social ul li a{
+    color: #cacaca;
+}
+
+.footer-social ul li a:hover{
+    background-color: #041121;
+}
+
+.copyright-sec{
+    padding: 25px 0;
+}
+
+.cop-p p a{
+    text-decoration: none;
+    color: #cacaca;
+}
+
+.cop-p p{
+    color: #cacaca;
+}
+
+.copy-link ul{
+    display: flex;
+    list-style-type: none;
+    text-align: end;
+}
+
+.copy-link ul li{
+    padding-right: 15px;
+}
+
+.copy-link ul li a{
+    text-decoration: none;
+    color: #cacaca;
+}
+
+.copy-link{
+    text-align-last: end;
+}
