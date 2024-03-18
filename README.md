@@ -1,3 +1,5 @@
+![Screenshot (16)](https://github.com/spembatla/Ozzo-Institute/assets/136897506/f8bec07e-b2f9-4118-938e-5d3f91436126)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
